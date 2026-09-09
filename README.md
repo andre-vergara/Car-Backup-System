@@ -96,7 +96,6 @@ In either case, the buzzer is switched off, the same condition is reported throu
 | `lcd.h` | Public LCD function declarations |
 | `CMakeLists.txt` | Pico SDK build configuration and linked libraries |
 | `pico_sdk_import.cmake` | Pico SDK import helper |
-| `PROJECT_CONTEXT.md` | Concise board and pin-assignment notes |
 
 ## Build and Flash Notes
 
